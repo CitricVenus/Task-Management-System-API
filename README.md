@@ -76,6 +76,6 @@ Authorization: Bearer <your_token>
   "dueDate": "2025-06-15"
 }
 `
-  
+
 
 
